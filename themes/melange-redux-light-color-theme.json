@@ -804,8 +804,7 @@
                 "string.template"
             ],
             "settings": {
-                "foreground": "#465aa4",
-                "fontStyle": "italic"
+                "foreground": "#465aa4"
             }
         },
         {

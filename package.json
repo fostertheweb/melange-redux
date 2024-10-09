@@ -1,8 +1,9 @@
 {
     "name": "melange-redux",
+    "version": "0.2.3",
     "displayName": "Melange Redux",
-    "description": "A slightly tweaked VS Code port of the wonderful Melange nvim color scheme by savq.",
-    "publisher": "rtud",
+    "description": "Fork of a slightly tweaked VS Code port of the wonderful Melange nvim color scheme by savq.",
+    "publisher": "fostertheweb",
     "license": "MIT",
     "icon": "icon.png",
     "keywords":[
@@ -15,17 +16,17 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/rtud/melange-redux"
+        "url": "https://github.com/fostertheweb/melange-redux"
     },
     "bugs": {
-        "url": "https://github.com/rtud/melange-redux/issues"
+        "url": "https://github.com/fostertheweb/melange-redux/issues"
     },
     "maintainers": [
-        "rtud (https://github.com/rtud"
+        "rtud (https://github.com/rtud)",
+        "fostertheweb (https://github.com/fostertheweb)"
     ],
-    "version": "0.2.2",
     "engines": {
-        "vscode": "^1.86.0"
+        "vscode": "^1.94.0"
     },
     "categories": [
         "Themes"
