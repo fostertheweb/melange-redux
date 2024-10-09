@@ -1,9 +1,13 @@
 {
-    "name": "melange-redux",
-    "version": "0.2.3",
-    "displayName": "Melange Redux",
+    "name": "melange-redux-iterum",
+    "version": "0.2.4",
+    "displayName": "Melange Redux Iterum",
     "description": "Fork of a slightly tweaked VS Code port of the wonderful Melange nvim color scheme by savq.",
     "publisher": "fostertheweb",
+    "scripts": {
+        "build": "vsce package",
+        "publish": "vsce publish"
+    },
     "license": "MIT",
     "icon": "icon.png",
     "keywords":[
@@ -34,12 +38,12 @@
     "contributes": {
         "themes": [
             {
-                "label": "Melange Redux: Light",
+                "label": "Melange Redux Iterum: Light",
                 "uiTheme": "vs",
                 "path": "./themes/melange-redux-light-color-theme.json"
             }, {
-                "label": "Melange Redux: Dark",
-                "uiTheme": "vs",
+                "label": "Melange Redux Iterum: Dark",
+                "uiTheme": "vs-dark",
                 "path": "./themes/melange-redux-dark-color-theme.json"
             }
         ]
