@@ -1,6 +1,6 @@
 {
     "name": "melange-redux-iterum",
-    "version": "0.2.6",
+    "version": "0.2.7",
     "displayName": "Melange Redux Iterum",
     "description": "Fork of a slightly tweaked VS Code port of the wonderful Melange nvim color scheme by savq.",
     "publisher": "fostertheweb",
